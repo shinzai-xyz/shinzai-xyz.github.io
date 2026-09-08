@@ -11,7 +11,7 @@ const CONFIG = {
         BIO: "",
         LOCATION: "神罪帝国",
         WEBSITE_LABEL: "ソースコード",
-        WEBSITE_URL: "https://github.com/8298440990/8298440990.github.io",
+        WEBSITE_URL: "https://github.com/shinzai-xyz/shinzai-xyz.github.io",
         JOINED: "2020年1月1日から利用しています",
         FOLLOWING: "0",
         FOLLOWERS: "1.6M",
