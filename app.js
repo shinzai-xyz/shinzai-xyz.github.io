@@ -10,8 +10,8 @@ const CONFIG = {
         BADGE: "👑",
         BIO: "",
         LOCATION: "神罪帝国",
-        WEBSITE_LABEL: "ソースコード",
-        WEBSITE_URL: "https://github.com/shinzai-xyz/shinzai-xyz.github.io",
+        WEBSITE_LABEL: "神罪ショップ",
+        WEBSITE_URL: "https://shinzai.booth.pm",
         JOINED: "2020年1月1日から利用しています",
         FOLLOWING: "0",
         FOLLOWERS: "1.6M",
@@ -20,14 +20,12 @@ const CONFIG = {
     },
     POSTS: [
         {
-            TIME: "2時間前",
-            TEXT: "今後ともよろしくお願いします。",
+            TIME: "",
+            TEXT: "",
         },
     ],
     TRENDS: [
         { CATEGORY: "注目のトピック", NAME: "#神罪帝国", POSTS: "99.9K 投稿" },
-        { CATEGORY: "エンタメ", NAME: "神罪閣下親王", POSTS: "9,999 投稿" },
-        { CATEGORY: "テクノロジー", NAME: "神罪公式SNS 爆誕", POSTS: "9,999 投稿" }
     ]
 };
 
