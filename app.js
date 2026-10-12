@@ -10,8 +10,8 @@ const CONFIG = {
         BADGE: "👑",
         BIO: "",
         LOCATION: "神罪帝国",
-        WEBSITE_LABEL: "神罪ショップ",
-        WEBSITE_URL: "https://shinzai.booth.pm",
+        WEBSITE_LABEL: "",
+        WEBSITE_URL: "",
         JOINED: "2020年1月1日から利用しています",
         FOLLOWING: "0",
         FOLLOWERS: "1.6M",
@@ -20,8 +20,8 @@ const CONFIG = {
     },
     POSTS: [
         {
-            TIME: "",
-            TEXT: "",
+            TIME: "2分前",
+            TEXT: "現在全ての活動を自粛しています。予めご了承ください。",
         },
     ],
     TRENDS: [
